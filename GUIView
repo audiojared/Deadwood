@@ -33,7 +33,7 @@ public class GUIView extends JFrame
    /*************
 
    JFrame enter button, listens to nextturnbutton
-
+ 
    *************/
    /*private frame.getRootPane().setDefaultButton(endTurnButton);*/
    private static JTextArea systemResponse = new JTextArea(4, 109);
